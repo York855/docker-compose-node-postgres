@@ -36,7 +36,7 @@ flowchart LR
 Requirements: Docker with Docker Compose.
 
 ```bash
-git clone https://github.com/Yoruk855/docker-compose-node-postgres.git
+git clone https://github.com/York855/docker-compose-node-postgres.git
 cd docker-compose-node-postgres
 docker compose up --build
 ```
